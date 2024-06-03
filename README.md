@@ -8,4 +8,7 @@
 * Loads projections from ``Projection*`` datasets
 * Loads segmentation from ``TotalSegmentator`` datasets
 
-Flexibility is limited and only the files following a specific(TM) format are supported.
+Flexibility is limited and only files following a specific format(TM) are supported.
+
+## Installation
+Don't know...
